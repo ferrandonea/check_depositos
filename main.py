@@ -60,8 +60,5 @@ def check_new_data() -> None:
 if __name__ == "__main__":
     check_new_data()
     
-    
-    
-    #for datos in lista_datos:
-    #    print (len(datos))
+
     
